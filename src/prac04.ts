@@ -1,0 +1,2 @@
+let deadline: Date = new Date(2025, 12, 31, 11, 45);
+console.log(deadline);
